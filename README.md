@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sizwe Michael Mtshweni</h1>
-<h3 align="center">A passionate frontend developer from</h3>
+<h3 align="center">A passionate software developer from South Africa</h3>
 
 - 🌱 I’m currently studying **Information Technology** and self-learning **Frontend Development, Blockchain Technology and Cyber Security**
 
